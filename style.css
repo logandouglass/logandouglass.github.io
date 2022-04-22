@@ -5,7 +5,7 @@ h1{color: #87684C;font-family: 'Nanum Gothic', sans-serif    ;}
 p {color:#D7D7D9; font-family: 'Nanum Gothic', sans-serif}
 li {color:#D7D7D9; font-family: 'Nanum Gothic', sans-serif}
 img {border-color: #87684C;}
-hr{background-color: #8A99A6;border-color: #8A99A6;}
+hr{background-color: #8A99A6;border-color: #87684C;}
 @media (min-width: 1300px) {
     .h1{height: 2px;}
     .h5{height: 20rem;}
