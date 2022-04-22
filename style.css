@@ -1,0 +1,11 @@
+header {background-color: #C1C9D9;}
+body {background-color:#0B0A0D}
+h3 {color: #D7D7D9;font-family: 'Nanum Gothic', sans-serif;}
+p {color:#D7D7D9; font-family: 'Nanum Gothic', sans-serif}
+li {color:#D7D7D9; font-family: 'Nanum Gothic', sans-serif}
+
+@media (min-width: 1000px) {
+
+    .h5{height: 20rem;}
+    .w5{width: 20rem}
+}
